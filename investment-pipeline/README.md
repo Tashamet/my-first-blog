@@ -2,11 +2,11 @@
 
 Материалы для партнёра по текущему пайплайну прямых сделок Pre-IPO:
 OpenAI, Figure AI, 1X Technologies, Polymarket, Kalshi, Positron AI, Databricks,
-VAST Data, ByteDance.
+VAST Data, ByteDance, Glean, Lightmatter, PsiQuantum.
 
 | Файл | Назначение |
 |---|---|
-| `Veligera_Pipeline_OnePager.pdf` | Готовый документ для партнёра (3 стр., McKinsey-стиль): по каждой компании — суть, дизрапт, раунд/оценка, цена вторичного рынка, инвесторы, горизонт, доходность |
+| `Veligera_Pipeline_OnePager.pdf` | Готовый документ для партнёра (4 стр., McKinsey-стиль): по каждой компании — суть, дизрапт, раунд/оценка, цена вторичного рынка, инвесторы, горизонт, доходность |
 | `Veligera_Pipeline_Draft.docx` | Редактируемый Word-драфт того же содержания (структура + текст, без дизайна) |
 | `Veligera_Pipeline_Upside_Model.xlsx` | Модель upside: лист на компанию, 3 сценария x 2 метода (мультипликаторы публичных аналогов и рыночные якоря), MOIC/IRR; жёлтые ячейки — изменяемые допущения |
 
