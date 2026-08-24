@@ -1,7 +1,7 @@
 # Veligera Capital — pipeline сделок (август 2026)
 
 Материалы для партнёра по текущему пайплайну прямых сделок Pre-IPO:
-OpenAI, Figure AI, 1X Technologies, Polymarket, Kalshi, Positron AI, Databricks,
+OpenAI, Figure AI, 1X Technologies, Polymarket, Positron AI, Databricks,
 VAST Data, ByteDance, Glean, Lightmatter, PsiQuantum.
 
 | Файл | Назначение |
